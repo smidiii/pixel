@@ -31,8 +31,8 @@ default_prio = 120 # priority: higher number = higher chance of being placed
 # overlay_only = false
 
 [[structure]]
-name = "tum_logo"
-file = "tum_logo.png"
-startx = 700
-starty = -366
+name = "tum_logo_rev"
+file = "tum_logo_rev.png"
+startx = 545
+starty = -365
 priority = 127
