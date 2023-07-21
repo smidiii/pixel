@@ -33,6 +33,6 @@ default_prio = 120 # priority: higher number = higher chance of being placed
 [[structure]]
 name = "tum_logo_rev"
 file = "tum_logo_rev.png"
-startx = 761
+startx = 758
 starty = -151
 priority = 127
