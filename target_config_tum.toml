@@ -11,5 +11,5 @@ name = "tumtud"
 file = "tum-tudortmund.png"
 disabled = false
 startx = -331
-starty = -67
+starty = -76
 priority = 127
