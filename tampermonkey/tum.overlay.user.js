@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         r/TUMplace Template
+// @name         r/placeTUM Template
 // @namespace    http://tampermonkey.net/
 // @version      8.3
 // @description  try to take over the canvas!
