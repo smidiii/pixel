@@ -31,9 +31,9 @@ starty = -75
 priority = 126
 
 [[structure]]
-name = "it"
-file = "it.png"
+name = "heart-tum-rwth"
+file = "heart-tum-rwth.png"
 disabled = false
-startx = -231
-starty = -65
-priority = 126
+startx = -289
+starty = -63
+priority = 128
