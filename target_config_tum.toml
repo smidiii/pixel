@@ -8,9 +8,9 @@ default_prio = 120
 
 [[structure]]
 name = "tumtud"
-file = "tum-tudortmund-exzellenz.png"
+file = "tum-tudortmund-exzellenz-pride.png"
 disabled = false
-startx = -331
+startx = -334
 starty = -76
 priority = 127
 
@@ -32,7 +32,7 @@ priority = 126
 
 [[structure]]
 name = "rwth"
-file = "RWTH_slim.png"
+file = "RWTH_updated_FH.png"
 disabled = false
 startx = -285
 starty = -75
