@@ -32,7 +32,7 @@ priority = 126
 
 [[structure]]
 name = "rwth"
-file = "RWTH_slim.png"
+file = "RWTH_updated_FH.png"
 disabled = false
 startx = -285
 starty = -75
