@@ -45,3 +45,11 @@ disabled = false
 startx = -289
 starty = -63
 priority = 125
+
+[[structure]]
+name = "THR"
+file = "THR.png"
+disabled = false
+startx = -180
+starty = -75
+priority = 125
