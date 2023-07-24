@@ -29,3 +29,11 @@ disabled = false
 startx = -205
 starty = -75
 priority = 126
+
+[[structure]]
+name = "it"
+file = "it.png"
+disabled = false
+startx = -231
+starty = -65
+priority = 126
