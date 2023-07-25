@@ -56,7 +56,7 @@ priority = 127
 name = "tudo"
 file = "tudo_new.png"
 disabled = false
-startx = -40
+startx = -49
 starty = -76
 priority = 127
 
