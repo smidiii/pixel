@@ -1,5 +1,41 @@
-ignored_colors = []
-allowed_colors = ["BE0039","FF4500","FFA800","FFD635","00A368","00CC78","7EED56","00756F","009EAA","2450A4","3690EA","51E9F4","493AC1","6A5CFF","811E9F","B44AC0","FF3881","FF99AA","6D482F","9C6926","000000","898D90","D4D7D9","FFFFFF", "515252"]
+ignored_colors = [
+    #000000, # filter black, DO NOT USE "#"!!!
+]
+allowed_colors = [
+    #000000, # allow black, DO NOT USE "#"!!! 
+    "6D001A",
+    "BE0039",
+    "FF4500",
+    "FFA800",
+    "FFD635",
+    "FFF8B8",
+    "00A368",
+    "00CC78",
+    "7EED56",
+    "00756F",
+    "009EAA",
+    "00CCC0",
+    "2450A4",
+    "3690EA",
+    "51E9F4",
+    "493AC1",
+    "6A5CFF",
+    "94B3FF",
+    "811E9F",
+    "B44AC0",
+    "E4ABFF",
+    "DE107F",
+    "FF3881",
+    "FF99AA",
+    "6D482F",
+    "9C6926",
+    "FFB470",
+    "515252",
+    "898D90",
+    "D4D7D9",
+    "FFFFFF",
+    "000000"
+]
 width = 2500
 height = 2000
 add-x = 1500
@@ -8,9 +44,9 @@ default_prio = 120
 
 [[structure]]
 name = "tumtud"
-file = "tum-tudortmund-exzellenz-pride.png"
+file = "tum-tudortmund-exzellenz.png"
 disabled = false
-startx = -334
+startx = -331
 starty = -76
 priority = 127
 
@@ -32,7 +68,7 @@ priority = 126
 
 [[structure]]
 name = "rwth"
-file = "RWTH_updated_FH.png"
+file = "RWTH_slim.png"
 disabled = false
 startx = -285
 starty = -75
@@ -53,3 +89,12 @@ disabled = false
 startx = -180
 starty = -75
 priority = 125
+
+[[structure]]
+name = "KaIT"
+file = "KaIT.png"
+disabled = false
+startx = -119
+starty = -76
+priority = 125
+
