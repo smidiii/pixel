@@ -115,3 +115,11 @@ startx = -119
 starty = -76
 priority = 125
 
+[[structure]]
+name = "fhac"
+file = "fhac.png"
+disabled = false
+startx = -163
+starty = -76
+priority = 125
+
