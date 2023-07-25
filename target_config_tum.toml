@@ -84,20 +84,12 @@ starty = -75
 priority = 126
 
 [[structure]]
-name = "rwth"
-file = "RWTH_slim.png"
-disabled = false
-startx = -285
-starty = -75
-priority = 120
-
-[[structure]]
 name = "heart-tum-rwth-diagonal"
 file = "heart-tum-rwth-diagonal.png"
 disabled = false
 startx = -289
 starty = -63
-priority = 125
+priority = 140
 
 [[structure]]
 name = "THR"
@@ -122,4 +114,12 @@ disabled = false
 startx = -163
 starty = -76
 priority = 125
+
+[[structure]]
+name = "rwth"
+file = "rwth.png"
+disabled = false
+startx = -285
+starty = -75
+priority = 130
 
