@@ -43,12 +43,13 @@ add-y = 1000
 default_prio = 120
 
 [[structure]]
-name = "tumtud"
-file = "tum-tudortmund-exzellenz-pride.png"
+name = "tum_turm"
+file = "tum_turm.png"
 disabled = false
 startx = -334
 starty = -76
 priority = 127
+
 
 
 [[structure]]
