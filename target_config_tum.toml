@@ -51,6 +51,23 @@ starty = -76
 priority = 127
 
 [[structure]]
+name = "tum_turm"
+file = "tum_turm.png"
+disabled = false
+startx = -334
+starty = -76
+priority = 127
+
+
+[[structure]]
+name = "tudo"
+file = "tudo.png"
+disabled = false
+startx = -40
+starty = -76
+priority = 127
+
+[[structure]]
 name = "tum-pinguin"
 file = "tum-pinguin.png"
 disabled = false
